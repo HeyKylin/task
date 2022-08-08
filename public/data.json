@@ -1,0 +1,138 @@
+{
+  "seller": {
+    "name": "饥饿的杰克",
+    "description": "闪电送达",
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "在线下单并订购食物",
+    "avatar": "https://i02piccdn.sogoucdn.com/917023ffba42a6b3",
+    "pics": [
+      "https://st.depositphotos.com/1158226/2740/i/450/depositphotos_27404103-stock-photo-closeup-of-burger-made-from.jpg",
+      "http://img.jdzj.com/UserDocument/2017y/canyin375/Picture/20180424111919451.jpg",
+      "http://picnew11.photophoto.cn/20170804/hanbaobao-28960989_1.jpg"
+    ],
+    "infos": [
+      "饥饿的杰克",
+      "地址:外卖森林,杰克大道,0001号.",
+      "营业时间:24小时营业"
+    ]
+  },
+  "goods": [
+    {
+      "name": "精选汉堡",
+      "type": -1,
+      "foods": [
+        {
+          "name": "田园鸡腿堡",
+          "price": 28,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [],
+          "icon": "https://n.sinaimg.cn/sinacn10110/709/w434h275/20190324/c222-hutweze7312355.jpg",
+          "image": "https://n.sinaimg.cn/sinacn10110/709/w434h275/20190324/c222-hutweze7312355.jpg"
+        },
+        {
+          "name": "香辣鸡腿堡",
+          "price": 30,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://cdn1.lianlianlvyou.com/lianlian/design/8a5bb1f5dc0d40d0b8af9ff2eb28255a.png",
+          "image": "http://cdn1.lianlianlvyou.com/lianlian/design/8a5bb1f5dc0d40d0b8af9ff2eb28255a.png"
+        },
+        {
+          "name": "奥尔良鸡腿堡",
+          "price": 31,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "https://imgb14.photophoto.cn/20200528/kcxinaoerliangkaojituibaopng-37479846_3.jpg",
+          "image": "https://imgb14.photophoto.cn/20200528/kcxinaoerliangkaojituibaopng-37479846_3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "饮料果汁",
+      "type": -1,
+      "foods": [
+        {
+          "name": "可口可乐",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "https://i0.wp.com/funyoumalaysia.com/wp-content/uploads/2021/08/image-35.jpeg?resize=1000%2C563&ssl=1",
+          "image": "https://i0.wp.com/funyoumalaysia.com/wp-content/uploads/2021/08/image-35.jpeg?resize=1000%2C563&ssl=1"
+        },
+        {
+          "name": "百事可乐",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "https://pic2.zhimg.com/v2-483a7e78c0c5b5519acc524cb1601d29_b.jpg",
+          "image": "https://pic2.zhimg.com/v2-483a7e78c0c5b5519acc524cb1601d29_b.jpg"
+        },
+        {
+          "name": "维他柠檬茶",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [],
+          "icon": "http://images.jumeinet.com/uploads/d-2022-06/docx_bfc0f0962c4e40aa86e2d816a26dd9cb_0.jpeg?imageMogr2/auto-orient/thumbnail/600x/blur/1x0/quality/75|imageslim",
+          "image": "http://images.jumeinet.com/uploads/d-2022-06/docx_bfc0f0962c4e40aa86e2d816a26dd9cb_0.jpeg?imageMogr2/auto-orient/thumbnail/600x/blur/1x0/quality/75|imageslim"
+        }
+      ]
+    },
+    {
+      "name": "特色小吃",
+      "type": -1,
+      "foods": [
+        {
+          "name": "上校鸡块",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "info": "",
+          "ratings": [],
+          "icon": "http://n.sinaimg.cn/front/192/w594h398/20181024/Wsq2-hmxrkzv9796252.jpg",
+          "image": "http://n.sinaimg.cn/front/192/w594h398/20181024/Wsq2-hmxrkzv9796252.jpg"
+        },
+        {
+          "name": "美式薯条",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [],
+          "icon": "https://img.soundofhope.org/2021-09/1631478729843.jpg",
+          "image": "https://img.soundofhope.org/2021-09/1631478729843.jpg"
+        }
+      ]
+    }
+  ]
+}
